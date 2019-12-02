@@ -1,0 +1,11 @@
+{
+  "exclusive_classes":true,
+  "architecture":"simple_cnn",
+  "labels":[
+    "CLTH",
+    "JEWL",
+    "AUTO",
+    "FOOT"
+  ],
+  "pretrained_vectors":null
+}
