@@ -59,7 +59,7 @@ Output:
       ]
     }}
   
- send POST request to http://0.0.0.0:5000/reviews and send datafile (Sample data file given in the data folder).
+ send POST request to http://0.0.0.0:5000/reviews and send datafile (download sample data file from                                      https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe).
  
   sample Output:
 
