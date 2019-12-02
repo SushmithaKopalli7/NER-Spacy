@@ -62,6 +62,18 @@ Output:
  send POST request to http://0.0.0.0:5000/reviews and send datafile (download sample data file from                                      https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe).
  
   sample Output:
+  
+                                                     review    pos
+        43101    A perfect location comfortable great value  0.931
+        211742               Clean comfortable lovely staff  0.907
+        175551            Friendly welcome Comfortable room  0.905
+        365085                    Good location great value  0.904
+        109564               Clean friendly and comfortable  0.902
+        145743                  Good value amazing location  0.901
+        407590            breakfast excellent Clean comfort  0.899
+        407546                       Great place I enjoyed   0.881
+        218571                Beautiful Quirky Comfortable   0.878
+        436901                    Lovely comfortable rooms   0.877
 
 
 NER- ner model is used to categorize the models.
